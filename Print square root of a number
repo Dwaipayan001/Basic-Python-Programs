@@ -1,0 +1,6 @@
+a = 4
+sqrt = a**0.5
+print("The square root of %f is %f" %(a,sqrt))
+
+
+#In this program we are calculating the square root of a number already inputted by the user. We can also write "print(sqrt)" to get the value no need to use %f (floating point number) or %d(integer) it is just used for documentation.
